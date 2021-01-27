@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/woltassignment2021/static/css/main.29bd5c15.chunk.css",
+    "main.js": "/woltassignment2021/static/js/main.21af8eb9.chunk.js",
+    "main.js.map": "/woltassignment2021/static/js/main.21af8eb9.chunk.js.map",
+    "runtime-main.js": "/woltassignment2021/static/js/runtime-main.d7f8364c.js",
+    "runtime-main.js.map": "/woltassignment2021/static/js/runtime-main.d7f8364c.js.map",
+    "static/js/2.e3a99d8b.chunk.js": "/woltassignment2021/static/js/2.e3a99d8b.chunk.js",
+    "static/js/2.e3a99d8b.chunk.js.map": "/woltassignment2021/static/js/2.e3a99d8b.chunk.js.map",
+    "index.html": "/woltassignment2021/index.html",
+    "static/css/main.29bd5c15.chunk.css.map": "/woltassignment2021/static/css/main.29bd5c15.chunk.css.map",
+    "static/js/2.e3a99d8b.chunk.js.LICENSE.txt": "/woltassignment2021/static/js/2.e3a99d8b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7f8364c.js",
+    "static/js/2.e3a99d8b.chunk.js",
+    "static/css/main.29bd5c15.chunk.css",
+    "static/js/main.21af8eb9.chunk.js"
+  ]
+}
