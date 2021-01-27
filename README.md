@@ -4,7 +4,7 @@ This web app displays the available items (restaurants) from different categorie
 
 Stack: React, Typescript & CSS
 
-No other frameworks were used, so the web app loads fast, lightweight and responsive on all devices.
+No other dependencies were used, ensuring the web app loads fast, lightweight and responsive on all devices.
 ![](demo.gif)
 
 Live demo: https://dannykhoai.github.io/woltassignment2021/
