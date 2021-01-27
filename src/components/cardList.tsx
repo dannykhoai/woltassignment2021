@@ -10,17 +10,20 @@ interface Props {
 const CardList: React.FC<Props> = () => {
   return(
     <div>
-      {data.sections.map(({title, restaurants}, i) => {
+
+      {data.sections.map(({ title, restaurants }, i) =>{
         return (
-          <div key={i}>
-            {title}
-            {restaurants.map((item, j) => {
+          
+          <div className="title" key={i}>
+            <h1>{title}</h1>
+
+            <div className='card-list' >{restaurants.map((item, j) => {
               return (
                 <div key={j}>
-                  <Card link={item.blurhash} />
+                  <Card link={item.blurhash} name={item.name} online={item.online}  />
                 </div>
               )
-            })}
+            })}</div>
           </div>
         )
       })}
