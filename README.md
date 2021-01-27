@@ -5,11 +5,13 @@ This web app displays the available items (restaurants) from different categorie
 Stack: React, Typescript & CSS
 
 No other dependencies were used, ensuring the web app loads fast, lightweight and responsive on all devices.
-![](demo.gif)
+ 
 
-Live demo: https://dannykhoai.github.io/woltassignment2021/
-Or run it locally:
-  $ git clone https://github.com/dannykhoai/woltassignment2021
-  $ cd woltassignment2021
-  $ npm install
-  $ npm start
+Live demo: https://dannykhoai.github.io/woltassignment2021/ <br />
+Or run it locally: <br />
+  $ git clone https://github.com/dannykhoai/woltassignment2021 <br />
+  $ cd woltassignment2021 <br />
+  $ npm install <br />
+  $ npm start <br />
+
+  ![](demo.gif)
